@@ -12,7 +12,7 @@ namespace boznet.Beady_Eyed.Test
 		/// <summary>
 		/// Test showing how to follow AAA pattern using the BDD approach
 		/// What I like is the test makes sense now and it will still make sense 
-		/// in 5 years when someone add a breaking change
+		/// in 5 years when someone adds a breaking change
 		/// </summary>
 		[Test]
 		public void Add_Return_Correct_Value()
@@ -26,8 +26,7 @@ namespace boznet.Beady_Eyed.Test
 		}
 		
 		/// <summary>
-		/// Same test but using a mocked calculator
-		/// This shows the use of And to make the test upport more complicated User Stories
+		/// This shows the use of And to make the test support more complicated User Stories
 		/// </summary>
 		[Test]
 		public void Add_Calls_Correct_Methods()
