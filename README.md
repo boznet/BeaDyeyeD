@@ -30,6 +30,6 @@ Arrange = ```Given``` some prerequisite ```And ``` some other prerequisite
 
 Act = ```When`` something happens
 
-Assert = ``Then`` an expected outcome occurs ```And``` another expected outcome occurs
+Assert = ```Then``` an expected outcome occurs ```And``` another expected outcome occurs
 
 Clone the project to see as simple example
