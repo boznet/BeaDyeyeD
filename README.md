@@ -13,7 +13,7 @@ Unit tests do not match the languange of the business
 It's only one class and can simple be added to any test project or test library as follows
 ```
 	[TestFixture]
-	public class MyClass : BDD<MyClass
+	public class MyClass : Bdd<MyClass>
 ```
 
 ##Usage
