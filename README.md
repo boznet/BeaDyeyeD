@@ -21,7 +21,7 @@ There are 4 key words that can now be used in your test class
 ```
 Given
 When
-Than
+Then
 And
 ```
 Following the AAA Arange=>Act=>Assert approach.  
